@@ -3,11 +3,11 @@ function solution(genres, plays) {
   var genresCount = {};
 
   // 장르별로 재생횟수를 누적
-  genresCount.forEach((e, i) => {
+  genres.forEach((e, i) => {
     genresCount[e] = genresCount[e] ? genresCount[e] + plays[i] : plays[i];
   });
 
-  let answer = {};
+  let dupDic = {};
 
   return genres
     .map((e, i) => ({
@@ -16,7 +16,7 @@ function solution(genres, plays) {
       index: i,
     }))
     .sort((a, b) => {
-      if (a.genre !== b.genre) return dic[b.genre] - dic[a.genre];
+      if (a.genre !== b.genre) return genresCount[b.genre] - genresCount[a.genre];
       if (a.count !== b.count) return b.count - a.count;
       return a.index - b.index;
     })
