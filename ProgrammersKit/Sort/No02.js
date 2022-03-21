@@ -11,7 +11,8 @@ function solution(numbers) {
 
   //! 예외 case: numbers 배열이 0으로만 이루어져 있을 경우
   //! 오류: 0 -> '0' 으로 해야함.
-  answer = answer[0] === '0' ? 0 : answer;
+  //// answer = answer[0] === '0' ? 0 : answer;
+  answer = answer[0] === '0' ? '0' : answer;
   // console.log(answer);
   return answer;
 }
