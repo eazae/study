@@ -15,36 +15,38 @@ function solution(answers) {
     if (answers[i] === three[i % 10]) answer[2]++;
   }
 
-  console.log(answer);
-  let sorted = answer;
-
-  sorted.sort((a, b) => b - a);
-  console.log(sorted);
+  // console.log(answer);
 
   const max = Math.max(...answer);
+
+  // 세 명 모두 정답이 0인 경우 제외
   // console.log(max)
   // console.log(sorted[0])
+
   let list = [];
   if (max === answer[0]) list.push(1);
   if (max === answer[1]) list.push(2);
   if (max === answer[2]) list.push(3);
 
 
-  // 세 명 모두 정답이 0인 경우 제외
-  let list2 = []
+  // let sorted = answer;
+
+  // sorted.sort((a, b) => b - a);
+  // console.log(sorted);
+
+  //! [Question] Math.max() 와 sort -> arr[0]
   // if (sorted[0] > 0) {
-  if (sorted[0] === answer[0]) list2.push(1);
-  if (sorted[0] === answer[1]) list2.push(2);
-  if (sorted[0] === answer[2]) list2.push(3);
+  if (sorted[0] === answer[0]) list.push(1);
+  if (sorted[0] === answer[1]) list.push(2);
+  if (sorted[0] === answer[2]) list.push(3);
   // }
 
 
-  console.log(list)
-  console.log(list2)
+  // console.log(list)
 
   return list;
 }
 
-// solution([1, 2, 3, 4, 5, 1, 2, 3, 4, 5]);
-// solution([1, 3, 2, 4, 2, 1, 3, 2, 4, 2, 1]);
+// solution([1, 2, 3, 4, 5]);
+// solution([1, 3, 2, 4, 2, 1]);
 solution([3, 3, 1, 1, 1, 1, 2, 3, 4, 5])
