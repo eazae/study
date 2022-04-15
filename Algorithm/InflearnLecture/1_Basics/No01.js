@@ -1,4 +1,5 @@
 /* [기본문제] 1번: 세 수  중  최솟값 */
+//? if문
 function solution(a, b, c) {
   let answer = a;
 
