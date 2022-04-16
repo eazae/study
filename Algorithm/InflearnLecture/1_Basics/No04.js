@@ -20,5 +20,5 @@ function solution(N) {
 // }
 
 // 입력예제
-console.log(solution(10));
+console.log(solution(6));
 console.log(solution(10));
