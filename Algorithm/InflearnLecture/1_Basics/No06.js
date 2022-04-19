@@ -16,7 +16,7 @@ function solution(numbers) {
 // function solution(arr) {
 //   let answer = [];
 //   let sum = 0,
-//     min = 1000;
+//      min = Number.MAX_SAFE_INTEGER;
 //   //! for-of 문 사용 (index 방식 대신에)
 //   for (let x of arr) {
 //     if (x % 2 === 1) {
