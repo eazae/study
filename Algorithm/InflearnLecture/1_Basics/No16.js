@@ -13,7 +13,7 @@ function solution(s) {
 }
 
 /* 답안 */
-// //? String.indexOf()
+// //? String.prototype.indexOf() 활용1
 // function solution(s) {
 //   let answer = '';
 //   //* 처음 발견되는 위치의 index를 return
