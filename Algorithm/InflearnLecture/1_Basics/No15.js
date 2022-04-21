@@ -1,8 +1,7 @@
 /* [기본문제] 15번: 가운데 문자 출력 */
 function solution(word) {
   const len = word.length;
-  console.log('qwerty'.substring(2, 3));
-  // return (len % 2 === 0 ? word.charAt(len / 2 - 1) : '') + word.charAt(len / 2);
+  return (len % 2 === 0 ? word.charAt(len / 2 - 1) : '') + word.charAt(len / 2);
 }
 
 /* 답안 */
