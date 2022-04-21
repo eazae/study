@@ -4,6 +4,7 @@ function solution(s) {
 }
 
 /* 답안 */
+//? ASCII 코드 활용
 // function solution(s){
 //   let answer="";
 //   for(let x of s){
@@ -16,7 +17,6 @@ function solution(s) {
 //   }
 
 //   return answer;
-
 // }
 
 // 입력예제
