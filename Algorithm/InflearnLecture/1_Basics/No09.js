@@ -13,17 +13,17 @@ function solution(input) {
 }
 
 /* 답안 */
-function solution(s) {
-  let answer = s;
-  s = s.replace(/A/, '#');
-  // 얕은 복사(주소참조) 아님, s를 바꾼다고 해서 answer가 바뀌지는 않음
-  //* String은 참조가 되는 것이 아니라, 값이 복사가 되는 것이다.
+// function solution(s) {
+//   let answer = s;
+//   s = s.replace(/A/, '#');
+//   // 얕은 복사(주소참조) 아님, s를 바꾼다고 해서 answer가 바뀌지는 않음
+//   //* String은 참조가 되는 것이 아니라, 값이 복사가 되는 것이다.
 
-  //! 전역으로 바꿔주는 option 부여
-  answer = answer.replace(/A/g, '#');
-  console.log(s);
-  return answer;
-}
+//   //! 전역으로 바꿔주는 option 부여
+//   answer = answer.replace(/A/g, '#');
+//   console.log(s);
+//   return answer;
+// }
 
 // 입력예제
 console.log(solution('BANANA'));
