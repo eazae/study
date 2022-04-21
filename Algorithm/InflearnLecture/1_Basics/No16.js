@@ -18,7 +18,7 @@ function solution(s) {
 //   let answer = '';
 //   //* 처음 발견되는 위치의 index를 return
 //   //console.log(s.indexOf("k"));
-//   //* 두번째 인자는, 1번째 이후로 발견되는 위치의 index를 return
+//   //* 두번째 인자는, index 1 이후로 발견되는 위치의 index를 return
 //   //console.log(s.indexOf("k", 1));
 //   for (let i = 0; i < s.length; i++) {
 //     //console.log(s[i], i, s.indexOf(s[i]));
