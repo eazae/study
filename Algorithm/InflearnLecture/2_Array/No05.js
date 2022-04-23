@@ -39,3 +39,4 @@ function solution(N, arr) {
 
 // 입력예제
 console.log(solution(5, [87, 89, 92, 100, 76]));
+console.log(solution(5, [92, 92, 92, 100, 76]));
