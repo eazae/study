@@ -25,17 +25,17 @@ function solution(N, arr) {
 }
 
 /* 답안 */
-function solution(n, arr) {
-  //? 1차원 배열을 특정 값으로 초기화
-  let answer = Array.from({ length: n }, () => 1);
-  for (let i = 0; i < n; i++) {
-    for (let j = 0; j < n; j++) {
-      // j인덱스 위치에서보다 큰 것들의 개수를 담고 있는 셈
-      if (arr[j] > arr[i]) answer[i]++;
-    }
-  }
-  return answer;
-}
+// function solution(n, arr) {
+//   //? 1차원 배열을 특정 값으로 초기화
+//   let answer = Array.from({ length: n }, () => 1);
+//   for (let i = 0; i < n; i++) {
+//     for (let j = 0; j < n; j++) {
+//       // j인덱스 위치에서보다 큰 것들의 개수를 담고 있는 셈
+//       if (arr[j] > arr[i]) answer[i]++;
+//     }
+//   }
+//   return answer;
+// }
 
 // 입력예제
 console.log(solution(5, [87, 89, 92, 100, 76]));
