@@ -3,19 +3,19 @@
 ## <b>Contents</b>
 
 <details> 
-<summary><b>프로그래밍</b></summary>
+<summary><b>🍄 프로그래밍</b></summary>
 
 - ##### 프로그래밍이란 뭐라고 생각하나요?
 - ##### 컴파일러는 뭐고 인터프리터는 뭔가요?
 
 </details>
 <details> 
-<summary><b>자바스크립트란</b></summary>
+<summary><b>🍄 자바스크립트란</b></summary>
 
 - ##### 자바스크립트의 특징은 뭐가 있나요?
 
 </details><details> 
-<summary><b>변수</b></summary>
+<summary><b>🍄 변수</b></summary>
 
 - ##### 변수란 무엇인가요?
 - ##### 식별자란 무엇인가요?
@@ -31,7 +31,7 @@
 - ##### 리터럴이 뭔가요?
 
 </details><details> 
-<summary><b>데이터 타입</b></summary>
+<summary><b>🍄 데이터 타입</b></summary>
 
 - ##### 데이터 타입의 종류는 어떤 것들이 있나요?
 - ##### 심벌 타입은 뭐죠?
@@ -40,7 +40,7 @@
 - ##### 동적 타이핑이 뭔가요?
 
 </details><details> 
-<summary><b>타입변환과 단축 평가</b></summary>
+<summary><b>🍄 타입변환과 단축 평가</b></summary>
 
 - ##### 명시적 타입 변환이 뭔가요?
 - ##### 명시적 타입 변환 함수를 예를 들어볼 수 있나요?
@@ -48,7 +48,7 @@
 - ##### truthy / falsy 한 값이 뭔가요?
 
 </details><details> 
-<summary><b>배열</b></summary>
+<summary><b>🍄 배열</b></summary>
 
 - ##### 자바스크립트의 배열은 자료구조의 배열과 같나요?
 - ##### 배열의 메서드는 어떤 종류가 있나요?
@@ -106,6 +106,7 @@
 - ##### 객체지향 프로그래밍의 특징에 대해 말해볼 수 있나요?
 - ##### 자바스크립트는 객체지향 프로그래밍 언어인가요?
 - ##### 프로토타입이 뭔가요?
+- ##### 객체의 재사용성 (04.25)
 
 </details><details> 
 <summary><b>strict mode</b></summary>
