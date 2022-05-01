@@ -17,14 +17,14 @@ function solution(str) {
 
 /* 답안 */
 //? 정규식 사용
-function solution(s) {
-  let answer = 'YES';
-  // 알파벳들만 남기고, 나머지 문자들은 다 제거 후 펠린드롬 검사
-  // 정규식 의미) 'a' ~ 'z'가 아닌 것에 대해서라는 의미, /g 옵션은 전체에 적용하라는 의미
-  s = s.toLowerCase().replace(/[^a-z]/g, '');
-  if (s.split('').reverse().join('') !== s) return 'NO';
-  return answer;
-}
+// function solution(s) {
+//   let answer = 'YES';
+//   // 알파벳들만 남기고, 나머지 문자들은 다 제거 후 펠린드롬 검사
+//   // 정규식 의미) 'a' ~ 'z'가 아닌 것에 대해서라는 의미, /g 옵션은 전체에 적용하라는 의미
+//   s = s.toLowerCase().replace(/[^a-z]/g, '');
+//   if (s.split('').reverse().join('') !== s) return 'NO';
+//   return answer;
+// }
 
 // 입력예제
 console.log(solution('found7, time: stuPy; Yduts; emit, 7Dnuof'));
