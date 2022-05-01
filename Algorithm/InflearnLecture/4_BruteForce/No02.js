@@ -28,26 +28,29 @@ function solution(N, arr) {
 }
 
 /* 답안 */
-function isPrime(num) {
-  if (num === 1) return false;
-  for (let i = 2; i <= parseInt(Math.sqrt(num)); i++) {
-    if (num % i === 0) return false;
-  }
-  return true;
-}
-function solution(arr) {
-  let answer = [];
-  for (let x of arr) {
-    let res = 0;
-    while (x) {
-      let t = x % 10;
-      res = res * 10 + t;
-      x = parseInt(x / 10);
-    }
-    if (isPrime(res)) answer.push(res);
-  }
-  return answer;
-}
+//? 숫자 자체를 활용해서 답을 구함 (String 처리 안함)
+// function isPrime(num) {
+//   if (num === 1) return false;
+//   // 소수를 구할 때, 제곱근까지만 구하면 됨. 그 이후는 순서만 뒤바뀐 동일한 연산이므로
+//   for (let i = 2; i <= parseInt(Math.sqrt(num)); i++) {
+//     // 소수가 아닌 경우
+//     if (num % i === 0) return false;
+//   }
+//   return true;
+// }
+// function solution(N, arr) {
+//   let answer = [];
+//   for (let x of arr) {
+//     let res = 0;
+//     while (x) {
+//       let t = x % 10;
+//       res = res * 10 + t;
+//       x = parseInt(x / 10);
+//     }
+//     if (isPrime(res)) answer.push(res);
+//   }
+//   return answer;
+// }
 
 // 입력예제
 console.log(solution(9, [32, 55, 62, 20, 250, 370, 200, 30, 100]));
