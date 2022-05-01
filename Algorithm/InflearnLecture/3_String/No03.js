@@ -12,15 +12,15 @@ function solution(str) {
 
 /* 답안 */
 //? 내장 함수 사용
-function solution(str) {
-  let answer = '';
-  for (let x of str) {
-    // isNaN() 함수: Number인지 여부 검사
-    if (!isNaN(x)) answer += x;
-  }
-  // parseInt()를 사용해서 앞의 '0'들을 제거 후 반환
-  return parseInt(answer);
-}
+// function solution(str) {
+//   let answer = '';
+//   for (let x of str) {
+//     // isNaN() 함수: Number인지 여부 검사
+//     if (!isNaN(x)) answer += x;
+//   }
+//   // parseInt()를 사용해서 앞의 '0'들을 제거 후 반환
+//   return parseInt(answer);
+// }
 
 // 입력예제
 console.log(solution('g0en2T0s8eSoft'));
