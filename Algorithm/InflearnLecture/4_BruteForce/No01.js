@@ -21,16 +21,22 @@ function solution(N, arr) {
 }
 
 /* 답안 */
+// i) 직접 연산
+// ii) 내장 함수 사용
 function solution(n, arr) {
   let answer,
     max = Number.MIN_SAFE_INTEGER;
   for (let x of arr) {
+    // i)
     let sum = 0,
       tmp = x;
+    // 0이 되면 빠져나옴
     while (tmp) {
       sum += tmp % 10;
       tmp = Math.floor(tmp / 10);
     }
+    // ii) 숫자를 더해야되기 때문에, Number() 처리를 꼭 해줘야 함
+    // let sum = x.toString().split('').reduce((a, b)=> a + Number(b), 0);
     if (sum > max) {
       max = sum;
       answer = x;
