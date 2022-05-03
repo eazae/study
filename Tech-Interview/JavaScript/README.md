@@ -1,5 +1,9 @@
 # JavaScript
 
+## Study Notes
+
+https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582eef8835e7efaaa
+
 ## <b>Contents</b>
 
 <details> 
