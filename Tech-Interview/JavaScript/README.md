@@ -105,7 +105,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 꼬리 질문) 순수 함수가 뭔가요? 일반 함수와는 어떤 차이가 있죠?
 
 </details><details> 
-<summary><b>프로토타입</b></summary>
+<summary><b>🍄 프로토타입</b></summary>
 
 - ##### 객체지향 프로그래밍은 무엇을 의미하나요?
 - ##### 객체지향 프로그래밍의 특징에 대해 말해볼 수 있나요?
