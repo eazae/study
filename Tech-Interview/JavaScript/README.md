@@ -114,19 +114,19 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 객체의 재사용성 (04.25)
 
 </details><details> 
-<summary><b>strict mode</b></summary>
+<summary><b>🍄 strict mode</b></summary>
 
 - ##### strict mode가 뭔가요?
 - ##### strict mode를 통해 무엇을 예방할 수 있죠?
 
 </details><details> 
-<summary><b>빌트인 객체</b></summary>
+<summary><b>🍄 빌트인 객체</b></summary>
 
 - ##### 빌트인 객체가 뭔가요? 종류는 어떤게 있죠?
 - ##### 래퍼 객체에 대해서 알고 있나요?
 
 </details><details> 
-<summary><b>this</b></summary>
+<summary><b>🍄 this</b></summary>
 
 - ##### this가 뭔가요?
 - ##### this 바인딩이란?
