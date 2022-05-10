@@ -133,12 +133,12 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### this는 동적으로 바인딩이 된다고 하는데 바인딩되는 객체가 어떻게 다르나요?
 
 </details><details> 
-<summary><b>실행 컨텍스트</b></summary>
+<summary><b>🍄 실행 컨텍스트</b></summary>
 
 - ##### 실행 컨텍스트에 대해 말해보세요
 
 </details><details> 
-<summary><b>클로저</b></summary>
+<summary><b>🍄 클로저</b></summary>
 
 - ##### 클로저에 대해서 아나요?
 - ##### 클로저를 사용하면 뭐가 좋죠?
