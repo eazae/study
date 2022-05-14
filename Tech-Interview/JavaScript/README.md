@@ -145,7 +145,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 클로저를 어떻게 생성하나요?
 
 </details><details> 
-<summary><b>클래스</b></summary>
+<summary><b>🍄 클래스</b></summary>
 
 - ##### 자바스크립트에서 클래스가 생기기 전에는 어떤 방식으로 객체지향 패턴을 구현했나요?
 - ##### 그럼 생성자 함수와 클래스는 어떤 차이가 있나요?
