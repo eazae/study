@@ -153,13 +153,13 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 클래스의 상속
 
 </details><details> 
-<summary><b>스프레드 문법</b></summary>
+<summary><b>🍄 스프레드 문법</b></summary>
 
 - ##### spread 문법이 뭔가요?
 - ##### 어떤 상황에서 사용할 수 있죠?
 
 </details><details> 
-<summary><b>구조 분해 할당</b></summary>
+<summary><b>🍄 구조 분해 할당</b></summary>
 
 - ##### 구조 분해 할당이 뭔가요?
 - ##### 구조 분해 할당은 크게 어떤 종류가 있나요?
