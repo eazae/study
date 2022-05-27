@@ -165,7 +165,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 구조 분해 할당은 크게 어떤 종류가 있나요?
 
 </details><details> 
-<summary><b>브라우저 렌더링 과정</b></summary>
+<summary><b>🍄 브라우저 렌더링 과정</b></summary>
 
 - ##### 브라우저의 렌더링 과정에 대해 설명해보세요
 - ##### 브라우저의 렌더링 과정에 자바스크립트는 어떻게 동작하나요?
