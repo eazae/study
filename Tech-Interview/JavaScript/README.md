@@ -172,7 +172,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### `<script></script>` 태그를 `<body></body>` 태그 밑에 둬야하는 이유가 있을까요?
 
 </details><details> 
-<summary><b>DOM</b></summary>
+<summary><b>🍄 DOM</b></summary>
 
 - ##### DOM이 뭔가요?
 - ##### DOM을 구성하는 건 뭐가 있나요?
