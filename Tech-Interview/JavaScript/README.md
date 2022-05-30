@@ -178,7 +178,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### DOM을 구성하는 건 뭐가 있나요?
 
 </details><details> 
-<summary><b>이벤트</b></summary>
+<summary><b>🍄 이벤트</b></summary>
 
 - ##### 마우스 이벤트 타입에는 뭐가 있나요? click 말고 클릭을 대체할 수 있는 이벤트가 있나요?
 - ##### 그 외에 알고 있는 대표적인 이벤트가 있나요?
