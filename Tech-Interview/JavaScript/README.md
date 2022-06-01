@@ -189,7 +189,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### e.stopPropagation
 
 </details><details> 
-<summary><b>타이머</b></summary>
+<summary><b>🍄 타이머</b></summary>
 
 - ##### 호출 스케쥴링이 무엇인가요?
 - ##### 타이머 함수에는 어떤 것들이 있나요?
