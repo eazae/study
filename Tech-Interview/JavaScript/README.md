@@ -207,7 +207,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 태스크 큐와 마이크로태스크 큐 중 어떤 것이 먼저 실행되나요?
 
 </details><details> 
-<summary><b>Ajax</b></summary>
+<summary><b>🍄 Ajax</b></summary>
 
 - ##### Ajax가 뭔가요 어떤 것을 담당하고 있죠?
 - ##### Ajax를 사용하면 기존 방식과 어떤 차이가 있을까요?
