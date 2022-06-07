@@ -217,7 +217,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### XMLHttpRequest와 fetch 메서드의 차이는 무엇이라고 생각하시나요?
 
 </details><details> 
-<summary><b>REST API</b></summary>
+<summary><b>🍄 REST API</b></summary>
 
 - ##### REST API가 뭔가요?
 - ##### REST API의 구성은 어떤 것이 있나요?
