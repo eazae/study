@@ -226,7 +226,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### HTTP 상태 코드를 아는대로 말해주세요
 
 </details><details> 
-<summary><b>Promise</b></summary>
+<summary><b>🍄 Promise</b></summary>
 
 - ##### 콜백이란 뭐라고 생각하나요?
 - ##### 프로미스가 뭔가요?
