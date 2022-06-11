@@ -243,14 +243,14 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### Promise와 async/await의 차이점 한 줄 요약
 
 </details><details> 
-<summary><b>에러</b></summary>
+<summary><b>🍄 에러</b></summary>
 
 - ##### 에러처리를 왜 해야 하나요?
 - ##### 자바스크립트에서 에러를 처리하는 방법에는 뭐가 있을까요?
 
 </details>
 <details> 
-<summary><b>모듈</b></summary>
+<summary><b>🍄 모듈</b></summary>
 
 - ##### 모듈이 뭔가요?
 
