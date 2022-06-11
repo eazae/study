@@ -235,7 +235,7 @@ https://eazae.notion.site/2ced7d8e8bb54fcdb1d6a90ea900c847?v=47574234789e4f9582e
 - ##### 프로미스 빌트인 객체가 제공하는 정적 메서드에 대해 알고 있나요?
 
 </details><details> 
-<summary><b>제너레이터와 async await</b></summary>
+<summary><b>🍄 제너레이터와 async await</b></summary>
 
 - ##### 제너레이터란 뭔가요? 일반 함수와는 어떤 차이가 있죠?
 - ##### 제너레이터의 구조
