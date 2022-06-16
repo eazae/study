@@ -4,6 +4,7 @@ function solution(board, moves) {
 
   let N = board.length;
   // 인형을 뽑을 위치 (높이)
+  // '-1'로 채우는 이유는, 빈 열을 선택할 때를 대비
   let pointer = new Array(N).fill(-1);
 
   for (let r = 0; r < N; r++) {
@@ -36,6 +37,25 @@ function solution(board, moves) {
 }
 
 /* 답안 */
+// function solution(board, moves) {
+//   let answer = 0;
+//   let stack = [];
+//   moves.forEach((pos) => {
+//     for (let i = 0; i < board.length; i++) {
+//       if (board[i][pos - 1] !== 0) {
+//         let tmp = board[i][pos - 1];
+//         board[i][pos - 1] = 0;
+//         if (tmp === stack[stack.length - 1]) {
+//           stack.pop();
+//           answer += 2;
+//         } else stack.push(tmp);
+//         break;
+//       }
+//     }
+//   });
+
+//   return answer;
+// }
 
 // 입력예제
 console.log(
