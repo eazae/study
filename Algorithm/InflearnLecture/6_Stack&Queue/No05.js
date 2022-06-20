@@ -26,9 +26,9 @@ function solution(input) {
       cnt++;
       max = Math.max(max, cnt);
     } else if (x === ')') cnt--;
-    else if (x === 1) answer = answer + cnt;
+    else if (x === 1) answer += cnt;
     else answer++; // x === 0
-    console.log(x, cnt, answer);
+    // console.log(x, cnt, answer);
   }
 
   // 마지막으로, 막대의 높이를 더한다
