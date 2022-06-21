@@ -7,7 +7,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 ## <b>Contents</b>
 
 <details> 
-<summary><b>프로세스와 스레드</b></summary>
+<summary><b>🍄 프로세스와 스레드</b></summary>
 
 - ##### 프로세스가 뭔가요?
 - ##### 스레드가 뭔가요?
