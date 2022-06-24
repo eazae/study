@@ -15,7 +15,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 
 </details>
 <details> 
-<summary><b>싱글 스레드와 멀티 스레드 🔥</b></summary>
+<summary><b>🍄 싱글 스레드와 멀티 스레드 🔥</b></summary>
 
 - ##### 싱글 스레드 장점
 - ##### 싱글 스레드 단점
@@ -23,7 +23,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### 멀티 스레드 단점
 
 </details><details> 
-<summary><b>HTTP 🔥</b></summary>
+<summary><b>🍄 HTTP 🔥</b></summary>
 
 - ##### HTTP란 뭔가요?
 - ##### HTTP 프로토콜의 가장 큰 특징은 뭔가요?
