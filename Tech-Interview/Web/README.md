@@ -33,7 +33,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### 심화) 공개키 (비대칭키) 방식이 뭔가요?
 
 </details><details> 
-<summary><b>쿠키 세션 🔥</b></summary>
+<summary><b>🍄 쿠키 세션 🔥</b></summary>
 
 - ##### 쿠키, 세션을 왜 쓰나요? 🔥🔥
 - ##### 쿠키가 뭔가요? 🔥🔥
