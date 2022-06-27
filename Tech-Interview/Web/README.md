@@ -41,7 +41,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### 쿠키와 세션의 차이는 어떤 점이 있을까요? 🔥🔥
 
 </details><details> 
-<summary><b>CORS 🔥</b></summary>
+<summary><b>🍄 CORS 🔥</b></summary>
 
 - ##### CORS가 뭔가요?
 - ##### CORS를 겪고 직접 해결해 본 경험이 있으면 말해주세요
