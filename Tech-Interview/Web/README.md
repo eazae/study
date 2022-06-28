@@ -47,7 +47,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### CORS를 겪고 직접 해결해 본 경험이 있으면 말해주세요
 
 </details><details> 
-<summary><b>SaaS 🔥</b></summary>
+<summary><b>🍄 SaaS 🔥</b></summary>
 
 - ##### SaaS가 뭔가요?
 - ##### 기타 비즈니스 유형은 뭐가 있나요?
