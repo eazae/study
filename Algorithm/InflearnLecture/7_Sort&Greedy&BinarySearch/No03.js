@@ -44,7 +44,7 @@ function solution(N, arr) {
 }
 
 /* 답안 */
-//? 더 효율적인 방식 (for-loop 2번으로 축소)
+//? Bubble Sort - 더 효율적인 방식 (for-loop 2번으로 축소)
 // function solution(arr) {
 //   let answer = arr;
 //   for (let i = 0; i < arr.length - 1; i++) {
