@@ -41,6 +41,11 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### 쿠키와 세션의 차이는 어떤 점이 있을까요? 🔥🔥
 
 </details><details> 
+<summary><b>Cache 🔥</b></summary>
+
+- ##### 캐시란 무엇인가요?
+
+</details><details> 
 <summary><b>🍄 CORS 🔥</b></summary>
 
 - ##### CORS가 뭔가요?
@@ -52,28 +57,23 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### SaaS가 뭔가요?
 - ##### 기타 비즈니스 유형은 뭐가 있나요?
 
+</details><details>
+<summary><b>CDN 🔥</b></summary>
+
+- ##### CDN이란 뭔가요?
+
 </details><details> 
 <summary><b>개발 방법론 🔥</b></summary>
 
 - ##### 폭포수 방법론이란 뭔가요?
 - ##### 애자일 방법론이란 뭔가요?
 
-</details><details> 
-<summary><b>Cache 🔥</b></summary>
-
-- ##### 캐시란 무엇인가요?
-
-</details><details> 
+</details><details>
 <summary><b>CI CD 🔥</b></summary>
 
 - ##### CI CD란 뭔가요?
 
-</details><details> 
-<summary><b>CDN 🔥</b></summary>
-
-- ##### CDN이란 뭔가요?
-
-</details><details> 
+</details><details>
 <summary><b>웹팩 🔥</b></summary>
 
 - ##### 웹팩이란?
