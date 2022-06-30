@@ -22,7 +22,7 @@ function solution(N, arr) {
 
 /* 답안 */
 //? sort()로 정렬을 따로 한 다음, 원본 배열과 다른 인덱스를 찾는 로직
-//? (나의 solution과 답이 다를 수 있음. input2 의 경우, 3 5 OR 4 5 출력)
+//? (나의 solution과 답이 다를 수 있음. 문제조건모호, 넘어가자. input2 의 경우, 3 5 OR 4 5 출력)
 // function solution(arr) {
 //   let answer = [];
 //   let sortArr = arr.slice();
