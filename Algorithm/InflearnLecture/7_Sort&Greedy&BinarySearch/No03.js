@@ -56,6 +56,17 @@ function solution(N, arr) {
 //   }
 //   return answer;
 // }
+//? JS Array API
+// function solution(arr) {
+//   let answer = [];
+//   for (let x of arr) {
+//     if (x < 0) answer.push(x);
+//   }
+//   for (let x of arr) {
+//     if (x > 0) answer.push(x);
+//   }
+//   return answer;
+// }
 
 // 입력예제
 console.log(solution(8, [1, 2, 3, -3, -2, 5, 6, -6]));
