@@ -1,13 +1,13 @@
 /* [정렬, 그리디, 결정알고리즘] 7번: 좌표 정렬 */
 function solution(N, arr) {
   // sol1) 간단한 방식, 기본제공 함수 이용
-  10;
   arr.sort((a, b) => {
     if (a[0] === b[0]) return a[1] - b[1];
     else return a[0] - b[0];
   });
 
   // sol2) 직접 구현
+  // TODO
 
   return arr;
 }
