@@ -63,7 +63,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### CDN이란 뭔가요?
 
 </details><details> 
-<summary><b>개발 방법론 🔥</b></summary>
+<summary><b>🍄 개발 방법론 🔥</b></summary>
 
 - ##### 폭포수 방법론이란 뭔가요?
 - ##### 애자일 방법론이란 뭔가요?
