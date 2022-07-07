@@ -69,7 +69,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### 애자일 방법론이란 뭔가요?
 
 </details><details>
-<summary><b>CI CD 🔥</b></summary>
+<summary><b>🍄 CI CD 🔥</b></summary>
 
 - ##### CI CD란 뭔가요?
 
