@@ -1,12 +1,12 @@
 /* [재귀함수와 완전탐색(DFS, 깊이우선탐색)] 1번: 재귀함수 */
-function reqursive(n) {
+function recursive(n) {
   if (n === 0) return;
-  reqursive(n - 1);
+  recursive(n - 1);
   console.log(n);
 }
 
 function solution(N) {
-  reqursive(N);
+  recursive(N);
 }
 
 /* 답안 */
