@@ -25,40 +25,40 @@ function solution(N) {
   console.log(LVR(N));
   console.log(LRV(N));
 
-  // //* 전위순회
-  // let vlr_answer = '';
-  // function VLR(n) {
-  //   if (n > 7) return;
-  //   vlr_answer += n + ' '; // V
-  //   VLR(n * 2); // L
-  //   VLR(n * 2 + 1); // R
-  // }
+  //* 전위순회
+  let vlr_answer = '';
+  function VLR(n) {
+    if (n > 7) return;
+    vlr_answer += n + ' '; // V
+    VLR(n * 2); // L
+    VLR(n * 2 + 1); // R
+  }
 
-  // //* 중위순회
-  // let lvr_answer = '';
-  // function LVR(n) {
-  //   if (n > 7) return;
-  //   LVR(n * 2); // L
-  //   lvr_answer += n + ' '; // V
-  //   LVR(n * 2 + 1); // R
-  // }
+  //* 중위순회
+  let lvr_answer = '';
+  function LVR(n) {
+    if (n > 7) return;
+    LVR(n * 2); // L
+    lvr_answer += n + ' '; // V
+    LVR(n * 2 + 1); // R
+  }
 
-  // //* 후위순회
-  // let lrv_answer = '';
-  // function LRV(n) {
-  //   if (n > 7) return;
-  //   LRV(n * 2); // L
-  //   LRV(n * 2 + 1); // R
-  //   lrv_answer += n + ' '; // V
-  // }
+  //* 후위순회
+  let lrv_answer = '';
+  function LRV(n) {
+    if (n > 7) return;
+    LRV(n * 2); // L
+    LRV(n * 2 + 1); // R
+    lrv_answer += n + ' '; // V
+  }
 
-  // 출력
-  // VLR(N);
-  // LVR(N);
-  // LRV(N);
-  // console.log(vlr_answer);
-  // console.log(lvr_answer);
-  // console.log(lrv_answer);
+  출력;
+  VLR(N);
+  LVR(N);
+  LRV(N);
+  console.log(vlr_answer);
+  console.log(lvr_answer);
+  console.log(lrv_answer);
 }
 
 /* 답안 */
