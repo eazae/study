@@ -58,7 +58,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### 기타 비즈니스 유형은 뭐가 있나요?
 
 </details><details>
-<summary><b>CDN 🔥</b></summary>
+<summary><b>🍄 CDN 🔥</b></summary>
 
 - ##### CDN이란 뭔가요?
 
