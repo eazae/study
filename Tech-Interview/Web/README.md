@@ -74,7 +74,7 @@ https://eazae.notion.site/23dc4affd67a433fb02c9de72a82e273?v=fecca452f6f04186b62
 - ##### CI CD란 뭔가요?
 
 </details><details>
-<summary><b>웹팩 🔥</b></summary>
+<summary><b>🍄 웹팩 🔥</b></summary>
 
 - ##### 웹팩이란?
 - ##### 모듈이란?
