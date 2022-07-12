@@ -44,9 +44,9 @@ function solution(N, elements) {
 // }
 
 // 입력예제
-let start = new Date(); // 시작시간
+// let start = new Date(); // 시작시간
 console.log(solution(6, [1, 3, 5, 6, 7, 10])); // YES
-let end = new Date(); // 종료시간
-console.log(end - start);
+// let end = new Date(); // 종료시간
+// console.log(end - start);
 
 console.log(solution(6, [1, 3, 5, 6, 7, 11])); // NO
