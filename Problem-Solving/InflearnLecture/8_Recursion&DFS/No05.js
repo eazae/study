@@ -44,9 +44,12 @@ function solution(N, elements) {
 // }
 
 // 입력예제
+//? 함수 실행시간 측정법 2가지
 // let start = new Date(); // 시작시간
 console.log(solution(6, [1, 3, 5, 6, 7, 10])); // YES
 // let end = new Date(); // 종료시간
 // console.log(end - start);
 
+// console.time('Ex2');
 console.log(solution(6, [1, 3, 5, 6, 7, 11])); // NO
+// console.timeEnd('Ex2');
