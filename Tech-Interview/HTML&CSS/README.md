@@ -9,7 +9,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 ### **HTML**
 
 <details> 
-<summary><b>DOCTYPE 🔥</b></summary>
+<summary><b>🍄 DOCTYPE 🔥</b></summary>
 
 - DOCTYPE에 대하여 설명하시오
 - meta 태그에 대해서 알고 있나요?
