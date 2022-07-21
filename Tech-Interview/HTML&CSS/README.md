@@ -17,7 +17,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 
 </details>
 <details> 
-<summary><b>웹 표준 및 웹 접근성 🔥</b></summary>
+<summary><b>🍄 웹 표준 및 웹 접근성 🔥</b></summary>
 
 - 웹 표준이란?
 - HTML5에서 추가된 내용이 있나요?
