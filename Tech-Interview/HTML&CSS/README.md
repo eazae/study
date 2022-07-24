@@ -35,6 +35,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 
 - 이미지 크기가 클 경우 렌더링 속도가 느려질텐데 이를 개선하기 위한 방법
 - UI란 무엇인지 설명하시오
+- UI와 UX의 차이점
 
 </details>
 <details> 
