@@ -2,12 +2,13 @@
 //? 유향 그래프(Directed Graph) / 인접행렬
 function solution(N, M, edges) {
   let answer = 0;
+
   //* 인접행렬 (Adjacent matrix)
   //? Array.from()을 활용한 배열의 초기화
   // const matrix = Array.from(new Array(N), () => new Array(N).fill(0)); // (아래와 동일)
   const matrix = Array.from({ length: N }, () => new Array(N).fill(0));
 
-  // 간선 표현
+  // 간선 표시
   for (let e of edges) {
     matrix[e[0] - 1][e[1] - 1] = 1;
   }
@@ -62,30 +63,31 @@ function solution(N, M, edges) {
 /* 답안 */
 // function solution(n, arr) {
 //   let answer = 0;
-//   let graph = Array.from(Array(n + 1), () => Array());
+//   let graph = Array.from(Array(n + 1), () => Array(n + 1).fill(0));
 //   let ch = Array.from({ length: n + 1 }, () => 0);
-//   let path = [];
+//   path = [];
 //   for (let [a, b] of arr) {
-//     graph[a].push(b);
+//     graph[a][b] = 1;
 //   }
 //   function DFS(v) {
 //     if (v === n) {
 //       answer++;
 //       console.log(path);
 //     } else {
-//       for (let nv of graph[v]) {
-//         if (ch[nv] === 0) {
-//           path.push(nv);
-//           ch[nv] = 1;
-//           DFS(nv);
-//           ch[nv] = 0;
+//       for (let i = 1; i <= n; i++) {
+//         if (graph[v][i] === 1 && ch[i] === 0) {
+//           ch[i] = 1;
+//           path.push(i);
+//           DFS(i);
+//           ch[i] = 0;
 //           path.pop();
 //         }
 //       }
 //     }
 //   }
-//   ch[1] = 1;
+
 //   path.push(1);
+//   ch[1] = 1;
 //   DFS(1);
 //   return answer;
 // }
