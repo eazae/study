@@ -39,7 +39,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 
 </details>
 <details> 
-<summary><b>SVG란 ? 🔥</b></summary>
+<summary><b>🍄 SVG란 ? 🔥</b></summary>
 
 - SVG 장점과 단점
 - SVG 내부 도형에 대해 아는게 있나요?
