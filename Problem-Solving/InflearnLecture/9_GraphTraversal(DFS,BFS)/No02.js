@@ -16,7 +16,8 @@ function solution(N, M, edges) {
   //// console.log(adjacentList);
 
   function DFS(node) {
-    // 방문 노드 표시를 이 위치에서 해도 되지만, 9-1의 코드처럼 재귀 전+후 에 선언하는 것이 더 직관적
+    // 방문 노드 표시를 이 위치에서 해도 되지만, 9-1의 코드처럼 재귀 전+후 에 선언하는 것이 더 직관적이어 보인다.
+    // 하지만, DFS 호출부 이전(line 34) 방문표시 코드를 중복으로 선언해주지 않아도 된다는 장점
     isVisited[node] = true;
     if (node === N) {
       answer++;
