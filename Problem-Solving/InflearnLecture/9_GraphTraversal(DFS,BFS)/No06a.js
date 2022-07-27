@@ -3,10 +3,12 @@ function solution(N, map) {
   let answer = 0;
 
   //* 팔방탐색 (시계방향)
-  const dr = [-1, -1, -1, 0, 0, 1, 1, 1];
+  const dr = [-1, -1, -1, 0, 1, 1, 1, 0];
   const dc = [-1, 0, 1, 1, 1, 0, -1, -1];
 
   function DFS(node) {
+    //! 필수는 아니지만, 섬의 시작 노드도 0으로 표시해야 함 (line 30 켜서 찍어보자. (1 하나인 섬은 끝날 때까지 1임을 볼 수 있음)
+    // map[node.r][node.c] = 0;
     let nr, nc;
     for (let i = 0; i < 8; i++) {
       nr = node.r + dr[i];
