@@ -35,7 +35,9 @@ function solution(S, E) {
 
 /* 답안 */
 // function solution(s, e) {
+//  // 방문배열
 //   let ch = Array.from({ length: 10001 }, () => 0);
+//  // 이동횟수 저장하고 있는 배열
 //   let dis = Array.from({ length: 10001 }, () => 0);
 //   let queue = [];
 //   queue.push(s);
