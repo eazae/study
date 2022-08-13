@@ -50,7 +50,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 ### **CSS**
 
 <details> 
-<summary><b>display 🔥</b></summary>
+<summary><b>🍄 display 🔥</b></summary>
 
 - block
 - inline
