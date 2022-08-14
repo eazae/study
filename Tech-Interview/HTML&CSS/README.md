@@ -59,7 +59,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 
 </details>
 <details> 
-<summary><b>position에 대하여 설명해보세요. 🔥</b></summary>
+<summary><b>🍄 position에 대하여 설명해보세요. 🔥</b></summary>
 
 - static
 - relative
