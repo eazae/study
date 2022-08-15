@@ -68,7 +68,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 
 </details>
 <details> 
-<summary><b>float가 어떻게 작동하는가 🔥</b></summary>
+<summary><b>🍄 float가 어떻게 작동하는가 🔥</b></summary>
 
 </details>
 <details> 
