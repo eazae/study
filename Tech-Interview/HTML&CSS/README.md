@@ -72,7 +72,7 @@ https://eazae.notion.site/e87f9a05e98d44df810ee0f0c61da328?v=dfe34bf2ca764b7c98a
 
 </details>
 <details> 
-<summary><b>Flexbox나 Grid 스펙을 사용해본 적이 있나요 ? 🔥</b></summary>
+<summary><b>🍄 Flexbox나 Grid 스펙을 사용해본 적이 있나요 ? 🔥</b></summary>
 
 - flex 를 사용하는 이유가 무엇인가요?
 - Grid를 사용하는 이유가 무엇인가요?
