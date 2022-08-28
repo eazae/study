@@ -1,0 +1,17 @@
+{
+  "name": "programmers2021fallfedevmatching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "keywords": [],
+  "author": "rotoshine",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "serve": "^12.0.0"
+  }
+}
