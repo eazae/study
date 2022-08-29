@@ -1,4 +1,11 @@
 # Algorithm Tests
-Test/
+Problem-Solving/Test/
 
-node_modules
+# dependencies
+node_modules/
+
+# hidden files
+/(hidden)
+
+# misc
+.DS_Store
