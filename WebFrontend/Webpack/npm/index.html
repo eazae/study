@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <main>
+    <section></section>
+    <section>
+      <div>
+        <article></article>
+        <article></article>
+        <article></article>
+        <article></article>
+        <article></article>
+        <article>
+          <div></div>
+          <div></div>
+          <div></div>
+          <!-- 이와 같이 라이브러리를 사용할 곳 바로 위에다 <script>태그로 배치해버리면? 
+            1. 라이브러리 관리 측면
+            2. 라이브러리 의존성 문제발생 측면 (버전이 src 안에 정의 되어있기 때문에)
+            에서 문제들이 발생함 -->
+          <!-- * 따라서, NPM을 통해서 package.json 파일 안에
+            * 1. 프로젝트에서 사용하는 라이브러리 목록
+            * 2. 라이브러리들의 버전
+            * 을 쉽게 관리할 수 있도록 하는 것이 좋겠다. (NPM의 장점 1.) -->
+          <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+          <script src="https://jquery-ui.com/date-picker-v5.js"></script>
+          <div class="date-picker"></div>
+          <div></div>
+          <div></div>
+        </article>
+        <article></article>
+        <article></article>
+        <article></article>
+        <article></article>
+      </div>
+    </section>
+    <section></section>
+  </main>
+</body>
+
+</html>
