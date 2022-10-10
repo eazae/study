@@ -17309,18 +17309,23 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1);
 /* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_0__);
 // index.js
+// ES6
 
+// ES5
+//// var _ = require('loadash');
 
 function component() {
   var element = document.createElement('div');
 
   /* lodash is required for the next line to work */
-  element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(['Hello','webpack'], ' ');
+  element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(['Hello', 'webpack'], ' ');
+  // element.innerHTML = 'Hello webpack'; (위와 동일한 코드)
 
   return element;
 }
 
 document.body.appendChild(component());
+
 })();
 
 /******/ })()
